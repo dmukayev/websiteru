@@ -16,4 +16,3 @@ db.connect(err => {
 });
 
 export default db;
-// mamba jaumba
